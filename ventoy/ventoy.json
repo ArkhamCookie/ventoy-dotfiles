@@ -1,0 +1,9 @@
+{
+    "control":[
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/ISO" }
+    ],
+    "theme":{
+        "file": "/themes/catppuccin/frappe/theme.txt",
+        "gfxmode": "1920x1080"
+    }
+}
